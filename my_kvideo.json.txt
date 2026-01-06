@@ -1,6 +1,10 @@
 [
   {
-    "name": "yoursmile66 线路",
+    "name": "yoursmile66 接口",
     "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  },
+  {
+    "name": "测试专用接口",
+    "url": "https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json"
   }
 ]
