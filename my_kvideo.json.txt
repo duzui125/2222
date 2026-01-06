@@ -1,0 +1,6 @@
+[
+  {
+    "name": "yoursmile66 线路",
+    "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+  }
+]
